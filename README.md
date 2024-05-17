@@ -1,7 +1,3 @@
-Sure, here's a simple README file for your Python code:
-
----
-
 # Password Generator
 
 This Python script generates a random password based on the user's specifications.
