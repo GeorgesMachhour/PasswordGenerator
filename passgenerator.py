@@ -7,7 +7,7 @@ symbols = "@#$%&*/\?"
 
 Use_for = lower_case + upper_case + number + symbols
 
-length_for_pass = input("Enter the password length (enter for default : 8): ")
+length_for_pass = input("Enter the password length (hit enter for default : 8): ")
 
 if length_for_pass == "":
     length_for_pass = 8
