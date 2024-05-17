@@ -27,7 +27,3 @@ Generated password: hS7@5&tF3L*p
 ## Note
 
 It's recommended to ensure the generated password is securely stored or saved, as it's not stored or logged anywhere by the script.
-
----
-
-Feel free to customize this README according to your preferences or add any additional information you find necessary.
